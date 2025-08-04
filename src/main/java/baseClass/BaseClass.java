@@ -20,7 +20,7 @@ public class BaseClass {
 	protected static WebDriver driver;
 	Properties properties;
 	public static ExtentReports extent;
-    public static ExtentTest test;
+   public static ExtentTest test;
 
 	@BeforeSuite
 	public void extednreport() {
@@ -48,7 +48,7 @@ public class BaseClass {
 
 	@BeforeMethod
 	public void setup(Method method) {
-		 test = extent.createTest(method.getName());
+		// test = extent.createTest(method.getName());
 		String browser= properties.getProperty("browser");
 		String url = properties.getProperty("url");
 		if (browser.equalsIgnoreCase("chrome")) {
@@ -74,12 +74,19 @@ public class BaseClass {
 
 	}
 
-    @AfterMethod
+	@AfterMethod
 	public void closeBrowser() {
-		if(driver!=null) {
-			//driver.quit();
-		}
+		System.out.println(" Browser running");
+	        if (driver != null) {
+	            driver.quit();
+	            System.out.println(" Browser quit successfully");
+	        }
+	  
 	}
+	
+	
+	
+	
 	   @AfterSuite
 	    public void tearDownReport() {
 	        if (extent != null) {

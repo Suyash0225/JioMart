@@ -1,4 +1,5 @@
 eclipse.preferences.version=1
 encoding//src/main/java/pages/AddToCartPage.java=UTF-8
+encoding//src/main/java/utils/ExtentTestNGITestListener.java=UTF-8
 encoding//src/test/java/testCases/AddToCartTest.java=UTF-8
 encoding//src/test/java/testCases/SearchTest.java=UTF-8

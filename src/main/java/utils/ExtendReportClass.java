@@ -1,12 +1,11 @@
 package utils;
-import org.testng.annotations.Test;
+
 
 import com.aventstack.extentreports.ExtentReports;
 import com.aventstack.extentreports.reporter.ExtentSparkReporter;
 
-public class ExtendReportClass {
+public class ExtendReportClass  {
 	
-	@Test
 	public static ExtentReports setupReport() {
 		String path = System.getProperty("user.dir")+ "/reports/index.html";
 		ExtentSparkReporter reporter = new ExtentSparkReporter(path);
