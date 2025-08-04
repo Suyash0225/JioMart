@@ -1,0 +1,222 @@
+2025-08-03 23:38:36,390 [main] INFO  testCases.SearchTest - Starting test for product: Rice with pincode: 221001
+2025-08-03 23:38:48,194 [main] INFO  testCases.SearchTest - Searched for product: Rice
+2025-08-03 23:38:49,123 [main] INFO  testCases.SearchTest - Total products found: 12
+2025-08-03 23:38:49,193 [main] DEBUG testCases.SearchTest - Product title: good life biryani basmati rice 1 kg
+?105.00 ?200.00
+47% off
+add
+free delivery between 8:00 am to 9:00 pm
+2025-08-03 23:38:49,199 [main] INFO  testCases.SearchTest - Matching product found: good life biryani basmati rice 1 kg
+?105.00 ?200.00
+47% off
+add
+free delivery between 8:00 am to 9:00 pm
+2025-08-03 23:38:56,202 [main] INFO  testCases.SearchTest - Starting test for product: Milk with pincode: 221001
+2025-08-03 23:39:07,364 [main] INFO  testCases.SearchTest - Searched for product: Milk
+2025-08-03 23:39:08,324 [main] INFO  testCases.SearchTest - Total products found: 12
+2025-08-03 23:39:08,404 [main] DEBUG testCases.SearchTest - Product title: amul taaza toned milky milk 500 ml
+?29.00
+add
+free delivery between 8:00 am to 9:00 pm
+2025-08-03 23:39:08,405 [main] INFO  testCases.SearchTest - Matching product found: amul taaza toned milky milk 500 ml
+?29.00
+add
+free delivery between 8:00 am to 9:00 pm
+2025-08-03 23:39:16,379 [main] INFO  testCases.SearchTest - Starting test for product: sdkjfvn with pincode: 221001
+2025-08-03 23:39:29,746 [main] INFO  testCases.SearchTest - Searched for product: sdkjfvn
+2025-08-03 23:39:46,740 [main] INFO  testCases.SearchTest - Starting test for product:  with pincode: 221001
+2025-08-03 23:39:55,301 [main] INFO  testCases.SearchTest - Searched for product: 
+2025-08-03 23:53:04,084 [main] INFO  testCases.SearchTest - Starting test for product: Rice with pincode: 221001
+2025-08-03 23:53:17,014 [main] INFO  testCases.SearchTest - Searched for product: Rice
+2025-08-03 23:53:17,763 [main] INFO  testCases.SearchTest - Total products found: 12
+2025-08-03 23:53:17,874 [main] DEBUG testCases.SearchTest - Product title: good life biryani basmati rice 1 kg
+?105.00 ?200.00
+47% off
+add
+free delivery between 8:00 am to 9:00 pm
+2025-08-03 23:53:17,874 [main] INFO  testCases.SearchTest - Matching product found: good life biryani basmati rice 1 kg
+?105.00 ?200.00
+47% off
+add
+free delivery between 8:00 am to 9:00 pm
+2025-08-03 23:53:26,633 [main] INFO  testCases.SearchTest - Starting test for product: Milk with pincode: 221001
+2025-08-03 23:53:40,266 [main] INFO  testCases.SearchTest - Searched for product: Milk
+2025-08-03 23:53:41,180 [main] INFO  testCases.SearchTest - Total products found: 12
+2025-08-03 23:53:41,239 [main] DEBUG testCases.SearchTest - Product title: amul taaza toned milky milk 500 ml
+?29.00
+add
+free delivery between 8:00 am to 9:00 pm
+2025-08-03 23:53:41,240 [main] INFO  testCases.SearchTest - Matching product found: amul taaza toned milky milk 500 ml
+?29.00
+add
+free delivery between 8:00 am to 9:00 pm
+2025-08-03 23:53:51,663 [main] INFO  testCases.SearchTest - Starting test for product: sdkjfvn with pincode: 221001
+2025-08-03 23:54:07,770 [main] INFO  testCases.SearchTest - Searched for product: sdkjfvn
+2025-08-03 23:54:17,883 [main] WARN  testCases.SearchTest - No search results container found for: sdkjfvn
+2025-08-03 23:54:26,368 [main] INFO  testCases.SearchTest - Starting test for product:  with pincode: 221001
+2025-08-03 23:54:40,317 [main] INFO  testCases.SearchTest - Searched for product: 
+2025-08-03 23:54:50,576 [main] WARN  testCases.SearchTest - No search results container found for: 
+2025-08-04 00:21:56,344 [main] INFO  testCases.SearchTest - Starting test for product: Rice with pincode: 221001
+2025-08-04 00:22:09,344 [main] INFO  testCases.SearchTest - Searched for product: Rice
+2025-08-04 00:22:10,189 [main] INFO  testCases.SearchTest - Total products found: 12
+2025-08-04 00:22:10,306 [main] DEBUG testCases.SearchTest - Product title: good life biryani basmati rice 1 kg
+?105.00 ?200.00
+47% off
+add
+free delivery between 8:00 am to 9:00 pm
+2025-08-04 00:22:10,309 [main] INFO  testCases.SearchTest - Matching product found: good life biryani basmati rice 1 kg
+?105.00 ?200.00
+47% off
+add
+free delivery between 8:00 am to 9:00 pm
+2025-08-04 00:22:16,918 [main] INFO  testCases.SearchTest - Starting test for product: sdkjfvn with pincode: 221001
+2025-08-04 00:22:27,394 [main] INFO  testCases.SearchTest - Searched for product: sdkjfvn
+2025-08-04 00:26:39,789 [main] INFO  testCases.SearchTest - Starting test for product: Rice with pincode: 221001
+2025-08-04 00:26:52,563 [main] INFO  testCases.SearchTest - Searched for product: Rice
+2025-08-04 00:26:53,640 [main] INFO  testCases.SearchTest - Total products found: 12
+2025-08-04 00:26:53,713 [main] DEBUG testCases.SearchTest - Product title: good life biryani basmati rice 1 kg
+?105.00 ?200.00
+47% off
+add
+free delivery between 8:00 am to 9:00 pm
+2025-08-04 00:26:53,713 [main] INFO  testCases.SearchTest - Matching product found: good life biryani basmati rice 1 kg
+?105.00 ?200.00
+47% off
+add
+free delivery between 8:00 am to 9:00 pm
+2025-08-04 00:26:59,885 [main] INFO  testCases.SearchTest - Starting test for product: sdkjfvn with pincode: 221001
+2025-08-04 00:27:10,558 [main] INFO  testCases.SearchTest - Searched for product: sdkjfvn
+2025-08-04 00:27:20,781 [main] WARN  testCases.SearchTest - No search results container found for: sdkjfvn
+2025-08-04 00:31:12,658 [main] INFO  testCases.SearchTest - Starting test for product: Rice with pincode: 221001
+2025-08-04 00:31:22,959 [main] INFO  testCases.SearchTest - Searched for product: Rice
+2025-08-04 00:31:23,744 [main] INFO  testCases.SearchTest - Total products found: 12
+2025-08-04 00:31:23,799 [main] DEBUG testCases.SearchTest - Product title: good life biryani basmati rice 1 kg
+?105.00 ?200.00
+47% off
+add
+free delivery between 8:00 am to 9:00 pm
+2025-08-04 00:31:23,800 [main] INFO  testCases.SearchTest - Matching product found: good life biryani basmati rice 1 kg
+?105.00 ?200.00
+47% off
+add
+free delivery between 8:00 am to 9:00 pm
+2025-08-04 00:31:29,510 [main] INFO  testCases.SearchTest - Starting test for product: sdkjfvn with pincode: 221001
+2025-08-04 00:31:43,061 [main] INFO  testCases.SearchTest - Searched for product: sdkjfvn
+2025-08-04 00:31:53,391 [main] WARN  testCases.SearchTest - No search results container found for: sdkjfvn
+2025-08-04 00:34:27,189 [main] INFO  testCases.SearchTest - Starting test for product: Rice with pincode: 221001
+2025-08-04 00:34:39,657 [main] INFO  testCases.SearchTest - Searched for product: Rice
+2025-08-04 00:34:40,475 [main] INFO  testCases.SearchTest - Total products found: 12
+2025-08-04 00:34:40,547 [main] DEBUG testCases.SearchTest - Product title: good life biryani basmati rice 1 kg
+?105.00 ?200.00
+47% off
+add
+free delivery between 8:00 am to 9:00 pm
+2025-08-04 00:34:40,549 [main] INFO  testCases.SearchTest - Matching product found: good life biryani basmati rice 1 kg
+?105.00 ?200.00
+47% off
+add
+free delivery between 8:00 am to 9:00 pm
+2025-08-04 00:34:42,838 [main] INFO  testCases.SearchTest - Starting test for product: Milk with pincode: 221001
+2025-08-04 00:34:57,322 [main] INFO  testCases.SearchTest - Searched for product: Milk
+2025-08-04 00:34:57,957 [main] INFO  testCases.SearchTest - Total products found: 12
+2025-08-04 00:34:58,011 [main] DEBUG testCases.SearchTest - Product title: amul taaza toned milky milk 500 ml
+?29.00
+add
+free delivery between 8:00 am to 9:00 pm
+2025-08-04 00:34:58,012 [main] INFO  testCases.SearchTest - Matching product found: amul taaza toned milky milk 500 ml
+?29.00
+add
+free delivery between 8:00 am to 9:00 pm
+2025-08-04 00:35:04,529 [main] INFO  testCases.SearchTest - Starting test for product: sdkjfvn with pincode: 221001
+2025-08-04 00:35:14,918 [main] INFO  testCases.SearchTest - Searched for product: sdkjfvn
+2025-08-04 00:35:25,004 [main] WARN  testCases.SearchTest - No search results container found for: sdkjfvn
+2025-08-04 00:35:31,329 [main] INFO  testCases.SearchTest - Starting test for product:  with pincode: 221001
+2025-08-04 00:35:37,806 [main] INFO  testCases.SearchTest - Searched for product: 
+2025-08-04 00:35:48,280 [main] WARN  testCases.SearchTest - No search results container found for: 
+2025-08-04 01:03:08,602 [main] INFO  testCases.SearchTest - Starting test for product: Rice with pincode: 221001
+2025-08-04 01:03:19,979 [main] INFO  testCases.SearchTest - Searched for product: Rice
+2025-08-04 01:03:20,913 [main] INFO  testCases.SearchTest - Total products found: 12
+2025-08-04 01:03:20,950 [main] DEBUG testCases.SearchTest - Product title: good life biryani basmati rice 1 kg
+?105.00 ?200.00
+47% off
+add
+free delivery between 8:00 am to 9:00 pm
+2025-08-04 01:03:20,951 [main] INFO  testCases.SearchTest - Matching product found: good life biryani basmati rice 1 kg
+?105.00 ?200.00
+47% off
+add
+free delivery between 8:00 am to 9:00 pm
+2025-08-04 01:03:27,750 [main] INFO  testCases.SearchTest - Starting test for product: Milk with pincode: 221001
+2025-08-04 01:03:33,846 [main] INFO  testCases.SearchTest - Searched for product: Milk
+2025-08-04 01:03:34,596 [main] INFO  testCases.SearchTest - Total products found: 12
+2025-08-04 01:03:34,657 [main] DEBUG testCases.SearchTest - Product title: amul taaza homogenised toned milk 1 l (tetra pak)
+?74.00 ?77.00
+3% off
+add
+2025-08-04 01:03:34,658 [main] INFO  testCases.SearchTest - Matching product found: amul taaza homogenised toned milk 1 l (tetra pak)
+?74.00 ?77.00
+3% off
+add
+2025-08-04 01:03:40,765 [main] INFO  testCases.SearchTest - Starting test for product: sdkjfvn with pincode: 221001
+2025-08-04 01:03:47,604 [main] INFO  testCases.SearchTest - Searched for product: sdkjfvn
+2025-08-04 01:03:57,808 [main] WARN  testCases.SearchTest - No search results container found for: sdkjfvn
+2025-08-04 01:04:03,907 [main] INFO  testCases.SearchTest - Starting test for product:  with pincode: 221001
+2025-08-04 01:04:06,612 [main] INFO  testCases.SearchTest - Searched for product: 
+2025-08-04 01:04:16,849 [main] WARN  testCases.SearchTest - No search results container found for: 
+2025-08-04 09:54:34,724 [main] INFO  pages.AddToCartPage - Validating cart details for product: Good Life Biryani Basmati Rice 1 kg with price: ?105.00
+2025-08-04 09:58:51,873 [main] INFO  pages.AddToCartPage - Validating cart details for product: Good Life Biryani Basmati Rice 1 kg with price: ?105.00
+2025-08-04 10:01:30,076 [main] INFO  pages.AddToCartPage - Waiting for cart page to load...
+2025-08-04 10:01:30,093 [main] INFO  pages.AddToCartPage - Validating product: Good Life Biryani Basmati Rice 1 kg and price: ?105.00
+2025-08-04 10:01:33,167 [main] INFO  pages.AddToCartPage - Product found: 1
+Sign In
+Delivery to: Varanasi 221001
+My Cart
+1
+Your Cart
+2
+Order Review
+3
+Payment
+Apply Coupon
+Sign in to see best offers & promotions
+Sign in
+Payment Details
+MRP Total
+?200.00
+Total
+?105.00
+Sign in & Order
+
+
+
+Loading...
+2025-08-04 10:07:42,593 [main] INFO  pages.AddToCartPage - Waiting for cart page to load...
+2025-08-04 10:07:42,623 [main] INFO  pages.AddToCartPage - Validating product: Good Life Biryani Basmati Rice 1 kg and price: ?105.00
+2025-08-04 10:07:45,572 [main] INFO  pages.AddToCartPage - Product found: 1
+Sign In
+Delivery to: Varanasi 221001
+My Cart
+1
+Your Cart
+2
+Order Review
+3
+Payment
+Apply Coupon
+Sign in to see best offers & promotions
+Sign in
+Payment Details
+MRP Total
+?200.00
+Total
+?105.00
+Sign in & Order
+
+
+
+Loading...
+2025-08-04 10:07:46,708 [main] INFO  pages.AddToCartPage - Price found: ?105.00
+2025-08-04 10:14:57,151 [main] INFO  pages.AddToCartPage - Waiting for cart page to load...
+2025-08-04 10:14:57,178 [main] INFO  pages.AddToCartPage - Validating product: Good Life Biryani Basmati Rice 1 kg and price: ?105.00
+2025-08-04 10:15:01,175 [main] INFO  pages.AddToCartPage - Product found: Good Life Biryani Basmati Rice 1 kg
+2025-08-04 10:15:01,241 [main] INFO  pages.AddToCartPage - Price found: ?105.00
